@@ -1,0 +1,133 @@
+﻿Here is the expanded and comprehensive website copy, integrating the structural directives and maintaining a sharp, intentional, and high-impact tone tailored for your target founders.
+________________
+
+
+Grow Your Startup with AI
+Learn the tools, skills, and mindset to scale your business.
+A hands-on, highly selective program designed for early-stage Nepali founders ready to move beyond survival and into rapid growth. Build, automate, and scale using the same tools modern operators use.
+[ APPLY NOW ] [ CONTACT US ]
+________________
+
+
+The Problem: The Manual Trap
+(Design Execution: Dark emotional section, contrasting problem vs. solution)
+Your startup is not failing because of your idea. It is failing because you are building it manually.
+Nepali founders are incredibly resourceful, but often stretched too thin. You are operating without the systems, automation, and AI tools that modern founders already use to win. From our ecosystem assessment, we found that founders are stuck in the weeds:
+* Using AI tools like ChatGPT, but guessing which ones actually drive revenue.
+* Relying on free software versions without knowing when or how to scale up.
+* Wasting hours on repetitive tasks like content creation and manual research.
+* Struggling with financial planning, pricing strategy, and growth bottlenecks.
+* Wanting to automate workflows, but lacking the technical blueprint to start.
+* Operating with existing legacy systems, unsure of how AI integrates without breaking them.
+This program moves beyond scattered trial-and-error. We focus on real-world business applications to save time, optimize decisions, and build systems that scale.
+________________
+
+
+What You Will Learn
+(Design Execution: Clean icon-based grid layout)
+Stop experimenting and start executing. By the end of this program, you will learn to:
+* Build Faster: Turn validated ideas into functional MVPs at unprecedented speeds.
+* Automate Workflows: Eliminate manual bottlenecks and build simple, effective systems that save time and reduce overhead.
+* Scale Growth: Design marketing, content, and growth systems that scale your startup sustainably.
+* Design with AI: Create professional branding, assets, and visual systems without needing an agency budget.
+* Decide with Data: Use AI to support financial planning, strategic decision-making, and secure, responsible data use.
+________________
+
+
+Tangible Outputs
+(Design Execution: Visual grid with icons)
+You won't just leave with theory. You will walk away with functional assets integrated into your business operations:
+* Custom Websites & Landing Pages
+* Validated Startup Ideas & MVPs
+* Functional Automation Systems
+* Polished Branding & Design Guidelines
+________________
+
+
+How the Program Works
+This initiative is an AEIF-supported program built specifically for the constraints of startups—small teams and limited budgets—combining intensive training, mentorship, and community.
+Phase 1: 2-Day Intensive Bootcamp
+A hands-on, practical workshop in your city. Expect guided exercises to build workflows tailored to your startup, exposing you to the exact tools used by global and local tech leaders.
+* Kathmandu: 6–7 June
+* Biratnagar: 13–14 June
+* Pokhara: 20–21 June
+Phase 2: 1-Month Mentorship
+Implementation is where most fail. We provide ongoing support to ensure the tools stick.
+* Access to experienced AI and business mentors.
+* Direct guidance on solving real bottlenecks during your adoption phase.
+* A period of shared access to paid versions of premium AI tools for high-level experimentation.
+* Immersion into a peer community of driven founders.
+Phase 3: Showcase & Networking (Kathmandu)
+Connect with peers, mentors, and ecosystem stakeholders to lock in your path forward. (Selected startups from Pokhara and Biratnagar will receive travel assistance to attend).
+________________
+
+
+The Mentors & Speakers
+(Design Execution: Minimalist speaker cards with title + role)
+Learn directly from operators who build with these systems every day:
+* Alok – AI Systems and Automation
+* Ashwin – Product Building
+* Aayush – Growth Systems
+* Saroj – Google Developer Group, Developer Tools and Scalable Systems
+________________
+
+
+Program Incentives
+(Design Execution: Structured benefit section)
+Equipping you with the resources to execute immediately:
+* Google AI Credits
+* Springbase Credits
+* Comprehensive Startup Kit
+* Exclusive AI Playbook
+* High-Value Founder Networking
+________________
+
+
+Who Should Apply
+(Design Execution: Bold urgency design section)
+Limited seats per city. Application-based selection only. Not open entry.
+We are looking for startups across all sectors (tech, services, retail, social enterprise) that are actively trying to overcome a growth plateau. Preference is given to:
+* Early-stage startups operating between 6 months to 2 years (maximum 5 years).
+* Teams with a live Minimum Viable Product (MVP) and fewer than 20 employees.
+* Founders facing clear operational bottlenecks where AI can create an immediate, measurable impact.
+* Teams that demonstrate ambition and a readiness to adopt new ways of working.
+(Note: Each selected startup can send up to two representatives).
+________________
+
+
+Frequently Asked Questions
+What does the program cost?
+The program is completely free for all selected participants.
+Do I need technical or AI experience to apply?
+No. The program is designed to take you from business fundamentals to practical AI implementation.
+How many people can attend from one startup?
+Up to two representatives per selected startup.
+Will accommodation or travel be covered?
+We do not cover travel for the initial bootcamps. However, if you require travel assistance, please write to us. Selected startups from Pokhara and Biratnagar will receive travel assistance to come to Kathmandu for the final Phase 3 Showcase.
+What should I bring to the bootcamp?
+A laptop. Please reach out to us if you need assistance securing one for the event.
+Will I receive a certificate?
+Yes.
+What happens after the bootcamp ends?
+You will immediately enter Phase 2, receiving 1 month of mentorship, ongoing support, and access to premium tool environments.
+How much time commitment is required after the bootcamp?
+Expect up to 10 hours per week for the mentorship month. Following that, your time commitment depends entirely on your level of engagement with the founder community.
+Can startups from outside Kathmandu, Pokhara, and Biratnagar apply?
+Yes! If you are located nearby, can travel to one of the cities, and secure your own accommodation, we highly encourage you to apply.
+
+
+
+1. The "Singular Accent" Color Palette
+Do not try to match or complement this green with other bright colors; it will instantly cheapen the look.
+* The Foundation: Stick strictly to deep blacks, stark whites, and cool slate grays.
+* The Accent: Use this exact lime green as your absolute, uncompromising primary action color. Every hover state, active CTA button, and vital data point should use this green. Against a dark, minimalist background, this color will practically glow, looking expensive and highly intentional.
+2. Typography: The Rule of Contrast
+The organic, handwritten nature of the logo demands a hyper-structured counterpart in the text.
+* Continue using a massive, unapologetic neo-grotesque sans-serif (like Inter or Helvetica Now) for your massive headlines.
+* The friction between your sharp, rigid grid typography and the fluid, human stroke of the logo is a classic hallmark of high-end, disruptive brand design. It visually represents the collision of human creativity and AI precision.
+3. Texture and Cinematic Depth
+Since the logo has a painted, brush-stroke quality, you can introduce subtle, sophisticated textures into the strict grid to bridge the gap between "technical" and "organic."
+* In the dark-mode "Problem" section, introduce deep, monochromatic ink washes or fluid, slow-moving watercolor-like textures deep in the background. Keep them almost entirely black or dark gray, visible only through cinematic studio lighting effects. This adds a luxurious, tactile feel that echoes the logo's stroke without breaking the minimalist vibe.
+4. UI and Animation Updates
+* Laser-Sharp Interactions: When a user hovers over a dark, structural element (like a speaker card or an output icon), have the border or a subtle glowing shadow snap to that lime green.
+* Cursor Dynamics: Consider a custom cursor—a stark white or lime green geometric shape (like a simple dot or crosshair) that inverses colors when it hovers over different sections.
