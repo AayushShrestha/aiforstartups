@@ -91,7 +91,7 @@ export default function Home() {
             </p>
             <div className="flex flex-wrap gap-4">
               <a href="https://docs.google.com/forms/d/e/1FAIpQLScHpOhMzKxRPa5NyxCMXGH_3wfBcFBcIOsQ5PrC3e0b7JMFjg/viewform" target="_blank" rel="noopener noreferrer" className="group flex items-center gap-2 bg-lime text-black px-8 py-4 font-bold tracking-widest uppercase hover:bg-white transition-colors duration-300">
-                [ Apply Now ]
+                [ Apply NOW ]
                 <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
               </a>
 
